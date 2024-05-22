@@ -1,0 +1,374 @@
+xf# UIP - User Installed Packages
+# Date:      Fri, 26 Apr 2024 08:36:49 -0400
+# Host:      orangepi5
+# System:    MX-23.2_rpi_arm64 Libretto Dec 30, 2023
+#
+# List of user installed packages
+# Package name                               Description
+
+alsa-utils                                   Utilities for configuring and using ALSA
+apt-notifier                                 tray applet to notify of system and application updates
+apt-utils                                    package management related utility programs
+arc-theme                                    Flat theme with transparent elements
+at-spi2-core                                 Assistive Technology Service Provider Interface (D-Bus core)
+audacious                                    small and fast audio player which supports lots of formats
+automake                                     Tool for generating GNU Standards-compliant Makefiles
+avahi-autoipd                                Avahi IPv4LL network address configuration daemon
+base-passwd                                  Debian base system master password and group files
+bash-completion                              programmable completion for the bash shell
+bison                                        YACC-compatible parser generator
+blueman                                      Graphical bluetooth manager
+bluez-cups                                   Bluetooth printer driver for CUPS
+bluez-tools                                  Set of tools to manage Bluetooth devices for linux
+brltty-x11                                   Access software for a blind person using a braille display - X11 drivers
+bsdutils                                     basic utilities from 4.4BSD-Lite
+btrfs-progs                                  Checksumming Copy on Write Filesystem utilities
+camera-engine-rkaiq                          3A libraries match Rockchip rkisp v30(rk3588).
+can-utils                                    SocketCAN userspace utilities and tools
+checkaptgpg                                  check and add missing GPG keys needed by apt
+cheese-dbgsym                                debug symbols for cheese
+chromium-x11                                 Prebuilt chromium-x11 from yocto meta-browser
+cifs-utils                                   Common Internet File System utilities
+console-setup                                console font and keymap setup program
+conky-manager								 manage conkies easily
+console-setup-linux                          Linux specific part of console-setup
+cpufrequtils                                 utilities to deal with the cpufreq Linux kernel feature
+cracklib-runtime                             runtime support for password checker library cracklib2
+cron                                         process scheduling daemon
+cron-daemon-common                           process scheduling daemon's configuration files
+cups-bsd                                     Common UNIX Printing System(tm) - BSD commands
+dash                                         POSIX-compliant shell
+dbus-x11                                     simple interprocess messaging system (X11 deps)
+desktop-defaults-mx-common                   common desktop defaults for MX Linux.
+desktop-defaults-mx-xfce-desktop-rpi         xfce desktop defaults for MX
+desktop-defaults-mx-xfce-system              xfce system defaults for MX
+device-tree-compiler                         Device Tree Compiler for Flat Device Trees
+diffutils                                    File comparison utilities
+dmz-cursor-theme                             Style neutral, scalable cursor theme
+dnsmasq                                      Small caching DNS proxy and DHCP/TFTP server
+dnsutils                                     Transitional package for bind9-dnsutils
+doc-base                                     utilities to manage online documentation
+docker-ce                                    Docker: the open-source application container engine
+dosfstools                                   utilities for making and checking MS-DOS FAT filesystems
+eject										 permit unmounting from desktop
+dvb-tools-dbgsym                             debug symbols for dvb-tools
+ethtool                                      display or change Ethernet device settings
+evince                                       Document (PostScript, PDF) viewer
+evtest                                       utility to monitor Linux input device events
+f2fs-tools                                   Tools for Flash-Friendly File System
+f3                                           test real flash memory capacity
+fake-hwclock                                 Save/restore system clock on machines without worki RTC hardware
+fbset                                        framebuffer device maintenance program
+fcitx                                        Flexible Input Method Framework
+fcitx-config-gtk                             graphic Fcitx configuration tool
+fcitx-frontend-gtk3                          Flexible Input Method Framework - GTK+ 3 IM Module frontend
+fcitx-frontend-qt5                           Free Chinese Input Toy of X - Qt5 IM Module frontend
+fcitx-googlepinyin                           Fcitx wrapper for Google Pinyin IM engine
+fcitx-table-all                              Flexible Input Method Framework - tables metapackage
+fcitx-ui-classic                             Flexible Input Method Framework - Classic user interface
+featherpad                                   Lightweight Qt5 plain-text editor
+ffmpeg                                       Tools for transcoding, streaming and playing of multimedia files
+ffmpeg-doc                                   Documentation of the FFmpeg multimedia framework
+figlet                                       Make large character ASCII banners out of ordinary text
+findutils                                    utilities for finding files--find, xargs
+flatpak                                      Application deployment framework for desktop apps
+flex                                         fast lexical analyzer generator
+fonts-arphic-bsmi00lp                        "AR PL Mingti2L Big5" Chinese TrueType font by Arphic Technology
+fonts-arphic-gbsn00lp                        "AR PL SungtiL GB" Chinese TrueType font by Arphic Technology
+fonts-arphic-gkai00mp                        "AR PL KaitiM GB" Chinese TrueType font by Arphic Technology
+fonts-arphic-ukai                            "AR PL UKai" Chinese Unicode TrueType font collection Kaiti style
+fonts-arphic-uming                           "AR PL UMing" Chinese Unicode TrueType font collection Mingti style
+fonts-freefont-ttf                           Freefont Serif, Sans and Mono Truetype fonts
+fonts-guru                                   Meta package to install all Punjabi fonts
+fonts-kacst                                  KACST free TrueType Arabic fonts
+fonts-kacst-one                              TrueType font designed for Arabic language
+fonts-liberation                             Fonts with the same metrics as Times, Arial and Courier
+fonts-nanum                                  Nanum Korean fonts
+fonts-stix                                   Scientific and Technical Information eXchange fonts
+fonts-symbola                                symbolic font providing emoji characters from Unicode 9.0
+fonts-wqy-zenhei                             "WenQuanYi Zen Hei" A Hei-Ti Style (sans-serif) Chinese font
+foomatic-db-compressed-ppds                  OpenPrinting printer support - Compressed PPDs derived from the database
+galternatives                                graphical setup tool for the alternatives system
+gdebi                                        simple tool to view and install deb files - GNOME GUI
+geany                                        fast and lightweight IDE
+ghostscript-x                                transitional package for ghostscript
+git                                          fast, scalable, distributed revision control system
+glmark2-drm-dbgsym                           debug symbols for glmark2-drm
+glmark2-es2-drm-dbgsym                       debug symbols for glmark2-es2-drm
+glmark2-es2-wayland-dbgsym                   debug symbols for glmark2-es2-wayland
+glmark2-es2-x11-dbgsym                       debug symbols for glmark2-es2-x11
+glmark2-wayland-dbgsym                       debug symbols for glmark2-wayland
+glmark2-x11-dbgsym                           debug symbols for glmark2-x11
+gnome-font-viewer                            font viewer for GNOME
+gnome-software                               Software Center for GNOME
+gnupg2                                       GNU privacy guard - a free PGP replacement (dummy transitional package)
+gparted                                      GNOME partition editor
+gstreamer1.0-alsa-dbgsym                     debug symbols for gstreamer1.0-alsa
+gstreamer1.0-gl-dbgsym                       debug symbols for gstreamer1.0-gl
+gstreamer1.0-gtk3-dbgsym                     debug symbols for gstreamer1.0-gtk3
+gstreamer1.0-opencv-dbgsym                   debug symbols for gstreamer1.0-opencv
+gstreamer1.0-packagekit                      GStreamer plugin to install codecs using PackageKit
+gstreamer1.0-plugins-bad-apps-dbgsym         debug symbols for gstreamer1.0-plugins-bad-apps
+gstreamer1.0-plugins-bad-dbgsym              debug symbols for gstreamer1.0-plugins-bad
+gstreamer1.0-plugins-base-apps-dbgsym        debug symbols for gstreamer1.0-plugins-base-apps
+gstreamer1.0-plugins-base-dbgsym             debug symbols for gstreamer1.0-plugins-base
+gstreamer1.0-plugins-good-dbgsym             debug symbols for gstreamer1.0-plugins-good
+gstreamer1.0-plugins-ugly                    GStreamer plugins from the "ugly" set
+gstreamer1.0-pulseaudio                      GStreamer plugin for PulseAudio (transitional package)
+gstreamer1.0-qt5-dbgsym                      debug symbols for gstreamer1.0-qt5
+gstreamer1.0-qt6-dbgsym                      debug symbols for gstreamer1.0-qt6
+gstreamer1.0-rockchip1-dbgsym                debug symbols for gstreamer1.0-rockchip1
+gstreamer1.0-tools-dbgsym                    debug symbols for gstreamer1.0-tools
+gstreamer1.0-wpe-dbgsym                      debug symbols for gstreamer1.0-wpe
+gtk2-engines                                 theme engines for GTK+ 2.x
+gvfs                                         userspace virtual filesystem - GIO module
+gzip                                         GNU compression utilities
+haveged                                      Linux entropy source using the HAVEGE algorithm
+hdparm                                       tune hard disk parameters for high performance
+hostapd                                      access point and authentication server for Wi-Fi and Ethernet
+hostname                                     utility to set/show the host name or domain name
+hplip                                        HP Linux Printing and Imaging System (HPLIP)
+htop                                         interactive processes viewer
+hunspell-en-us                               English_american dictionary for hunspell
+i2c-tools                                    heterogeneous set of I2C tools for Linux
+ifenslave                                    configure network interfaces for parallel routing (bonding)
+im-config                                    Input method configuration framework
+init                                         metapackage ensuring an init system is installed
+inputattach                                  utility to connect serial-attached peripherals to the input subsystem
+iotop                                        simple top-like I/O monitor
+iozone3                                      Filesystem and Disk Benchmarking Tool
+iputils-arping                               Tool to send ICMP echo requests to an ARP address
+iputils-ping                                 Tools to test the reachability of network hosts
+ir-keytable-dbgsym                           debug symbols for ir-keytable
+isc-dhcp-client                              DHCP client for automatically obtaining an IP address
+iw                                           tool for configuring Linux wireless devices
+jq                                           lightweight and flexible command-line JSON processor
+kbd                                          Linux console font and keytable utilities
+keyutils                                     Linux Key Management Utilities
+less                                         pager program similar to more
+libatk-adaptor                               AT-SPI 2 toolkit bridge
+libattr1                                     extended attribute handling - shared library
+libcheese-doc                                tool to take pictures and videos from your webcam - documentation
+libcheese-gtk-dev                            tool to take pictures and videos from your webcam - widgets dev
+libcheese-gtk25-dbgsym                       debug symbols for libcheese-gtk25
+libcheese8-dbgsym                            debug symbols for libcheese8
+libdigest-sha-perl                           Perl extension for SHA-1/224/256/384/512, SHA-512/224 and SHA-512/256
+libdrm-amdgpu1-dbgsym                        debug symbols for libdrm-amdgpu1
+libdrm-cursor-dbgsym                         debug symbols for libdrm-cursor
+libdrm-cursor-dev                            A hook of drm cursor APIs to fake cursor plane.
+libdrm-etnaviv1-dbgsym                       debug symbols for libdrm-etnaviv1
+libdrm-freedreno1-dbgsym                     debug symbols for libdrm-freedreno1
+libdrm-nouveau2-dbgsym                       debug symbols for libdrm-nouveau2
+libdrm-radeon1-dbgsym                        debug symbols for libdrm-radeon1
+libdrm-tegra0-dbgsym                         debug symbols for libdrm-tegra0
+libdrm2-dbgsym                               debug symbols for libdrm2
+libdvbv5-0-dbgsym                            debug symbols for libdvbv5-0
+libdvbv5-dev                                 Development files for libdvbv5
+libdvbv5-doc                                 Doxygen generated documentation for libdvbv5
+libfont-afm-perl                             Perl interface to Adobe Font Metrics files
+libfuse2                                     Filesystem in Userspace (library)
+libgail-common                               GNOME Accessibility Implementation Library -- common modules
+libgsettings-qt1                             library to access GSettings from Qt (shared libraries)
+libgstreamer-gl1.0-0-dbgsym                  debug symbols for libgstreamer-gl1.0-0
+libgstreamer-opencv1.0-0-dbgsym              debug symbols for libgstreamer-opencv1.0-0
+libgstreamer-plugins-bad1.0-0-dbgsym         debug symbols for libgstreamer-plugins-bad1.0-0
+libgstreamer-plugins-base1.0-0-dbgsym        debug symbols for libgstreamer-plugins-base1.0-0
+libgstreamer1.0-0-dbgsym                     debug symbols for libgstreamer1.0-0
+libgstreamer1.0-dev-dbgsym                   debug symbols for libgstreamer1.0-dev
+libgtk2.0-bin                                programs for the GTK graphical user interface library
+libmali-valhall-g610-g13p0-x11-gbm           Mali GPU User-Space Binary Drivers
+libmpv-dev                                   video player based on MPlayer/mplayer2 (client library dev files)
+libnl-genl-3-dev                             development library and headers for libnl-genl-3
+libnss-myhostname                            nss module providing fallback resolution for the current hostname
+libpam-gnome-keyring                         PAM module to unlock the GNOME keyring upon login
+libpam-modules-bin                           Pluggable Authentication Modules for PAM - helper binaries
+libpam-systemd                               system and service manager - PAM module
+libproc-processtable-perl                    Perl library for accessing process table information
+libproxy1-plugin-gsettings                   automatic proxy configuration management library (GSettings plugin)
+libproxy1-plugin-networkmanager              automatic proxy configuration management library (Network Manager plugin)
+libreoffice-writer                           office productivity suite -- word processor
+librga-dev                                   Userspace interface to Rockchip RGA 2D accelerator
+librga2-dbgsym                               debug symbols for librga2
+librockchip-mpp-dev                          Media Process Platform
+librockchip-mpp1-dbgsym                      debug symbols for librockchip-mpp1
+librockchip-vpu0-dbgsym                      debug symbols for librockchip-vpu0
+libss2                                       command-line interface parsing library
+libssl-dev                                   Secure Sockets Layer toolkit - development files
+libu2f-udev                                  Universal 2nd Factor (U2F) — transitional package
+libv4l-0-dbgsym                              debug symbols for libv4l-0
+libv4l-dev                                   Collection of video4linux support libraries (development files)
+libv4l-rkmpp-dbgsym                          debug symbols for libv4l-rkmpp
+libv4l2rds0-dbgsym                           debug symbols for libv4l2rds0
+libv4lconvert0-dbgsym                        debug symbols for libv4lconvert0
+libwmf0.2-7-gtk                              Windows metafile conversion GTK pixbuf plugin - transitional package
+libwrap0-dev                                 Wietse Venema's TCP wrappers library, development files
+lightdm-gtk-greeter-mx23                     lightdm-gtk-greeter theme and configuration for MX 23
+lightdm-gtk-greeter-settings                 settings editor for the LightDM GTK+ Greeter
+linux-dtb-current-rockchip-rk3588            Linux DTB, version 6.1.43-rockchip-rk3588
+linux-u-boot-orangepi5-current               Uboot loader 2017.09
+lm-sensors                                   utilities to read temperature/voltage/fan sensors
+login                                        system login tools
+logrotate                                    Log rotation utility
+lxtask                                       LXDE task manager
+mawk                                         Pattern scanning and text processing language
+mc                                           Midnight Commander - a powerful file manager
+menulibre                                    advanced FreeDesktop.org compliant menu editor
+mesa-utils                                   Miscellaneous Mesa utilities -- symlinks
+mmc-utils                                    Userspace tools for MMC/SD devices
+mousepad                                     simple Xfce oriented text editor
+mousetweaks                                  mouse accessibility enhancements for the GNOME desktop
+mpv                                          video player based on MPlayer/mplayer2
+mx-cleanup                                   mx-cleanup
+mx-comfort-themes                            mx-comfort themes for MX Linux
+mx-conky                                     MX Conky
+mx-datetime                                  MX Date & Time
+mx-desktop-menu-l10n                         provides desktop directory translations used in MX Linux
+mx-icons-start                               additional start menu icons
+mx-locale                                    set system language and locale variables
+mx-select-sound                              MX Select Sound
+mx-service-manager                           mx-service-manager
+mx-system                                    metapackage for packages needed for system functions
+mx-tools                                     MX Tools Launcher
+mx-tweak                                     MX Tweak
+mx-usb-unmounter                             mx-usb-unmounter
+mx-user                                      MX User manager
+mx-viewer                                    Displays a URL in a window
+mx23-artwork                                 Default wallpaper backgrounds for MX23
+nala                                         command line frontend for the APT package manager
+nano                                         small, friendly text editor inspired by Pico
+ncurses-term                                 additional terminal type definitions
+net-tools                                    NET-3 networking toolkit
+netcat-openbsd                               TCP/IP swiss army knife
+network-manager-gnome                        network management framework (GNOME frontend)
+network-manager-l2tp                         network management framework (L2TP plugin core)
+network-manager-openconnect                  network management framework (OpenConnect plugin core)
+network-manager-openvpn                      network management framework (OpenVPN plugin core)
+network-manager-pptp                         network management framework (PPTP plugin core)
+network-manager-ssh                          network management framework (SSH plugin core)
+network-manager-vpnc                         network management framework (VPNC plugin core)
+nocache                                      bypass/minimize file system caching for a program
+ntfs-3g                                      read/write NTFS driver for FUSE
+openprinting-ppds                            OpenPrinting printer support - PostScript PPD files
+openssh-server                               secure shell (SSH) server, for secure access from remote machines
+orage                                        Calendar for Xfce Desktop Environment
+orangepi-bsp-desktop-orangepi5               Orange Pi Board Specific Packages for desktop users using arm64 orangepi5 machines
+orangepi-config                              Orange Pi configuration utility
+orangepi-firmware                            Linux firmware
+orangepi-plymouth-theme                      boot animation, logger and I/O multiplexer - orangepi theme
+orangepi-zsh                                 Orange Pi improved ZShell
+p7zip-full                                   7z and 7za file archivers with high compression ratio
+pamix                                        Pulseaudio terminal mixer based in pavucontrol
+papirus-mxblue                               papirus blue folders with tabs for MX
+pavucontrol                                  PulseAudio Volume Control
+pavucontrol-qt                               Qt port of volume control pavucontrol
+pavumeter                                    PulseAudio Volume Meter
+pinentry-curses                              curses-based PIN or pass-phrase entry dialog for GnuPG
+#pipewire-pulse                              PipeWire PulseAudio daemon
+plank                                        Elegant, simple, clean dock
+plymouth-themes-mx							 Splash themes used by MX
+printer-driver-all                           printer drivers metapackage
+profile-sync-daemon                          Symlink and sync browser profile directories into RAM
+pulseaudio-module-bluetooth                  Bluetooth module for PulseAudio sound server
+python-is-python3                            symlinks /usr/bin/python to python3
+python3-dev                                  header files and a static library for Python (default)
+python3-setuptools                           Python3 Distutils Enhancements
+qjournalctl                                  qt-based GUI for systemd's journalctl command
+qrencode                                     QR Code encoder into PNG image
+qtmultimedia5-examples                       Examples for Qt 5 Multimedia module
+quick-system-info-gui                        A utility to show quick-system-info (inxi, etc...) in a gui
+qv4l2-dbgsym                                 debug symbols for qv4l2
+qvidcap-dbgsym                               debug symbols for qvidcap
+resolvconf                                   name server information handler
+rfkill                                       tool for enabling and disabling wireless devices
+rktoolkit                                    some small tool used in Rockchip SDK
+rockchip-mpp-demos-dbgsym                    debug symbols for rockchip-mpp-demos
+rsyslog                                      reliable system and kernel logging daemon
+screen                                       terminal multiplexer with VT100/ANSI terminal emulation
+slick-greeter                                Slick-looking LightDM greeter
+smartmontools                                control and monitor storage systems using S.M.A.R.T.
+smbclient                                    command-line SMB/CIFS clients for Unix
+spice-vdagent                                Spice agent for Linux
+stress                                       tool to impose load on and stress test a computer system
+sudo                                         Provide limited super user privileges to specific users
+sunxi-tools                                  tools for working with Allwinner (sunxi) ARM processors
+swig                                         Generate scripting interfaces to C/C++ code
+synaptic                                     Graphical package manager
+sysfsutils                                   sysfs query tool and boot-time setup
+sysstat                                      system performance tools for Linux
+system-config-printer                        graphical interface to configure the printing system
+terminator                                   multiple GNOME terminals in one window
+thunar-archive-plugin                        Archive plugin for Thunar file manager
+thunar-custom-actions-mx                     thunar custom actions for MX Linux
+thunar-gtkhash                               thunar extension for computing checksums and more using gtkhash
+thunar-modified-desktop-file                 modifies thunar desktop file to use filemanager icon instead of thunar
+thunar-volman                                Thunar extension for volumes management
+tightvncserver                               virtual network computing server software
+toilet                                       display large colourful characters in text mode
+tree                                         displays an indented directory tree, in color
+tumbler                                      D-Bus thumbnailing service
+unicode-data                                 Property data for the Unicode character set
+update-inetd                                 inetd configuration file updater
+usb-modeswitch                               mode switching tool for controlling "flip flop" USB devices
+usbutils                                     Linux USB utilities
+user-installed-packages                      list user installed packages
+usrmerge                                     Convert the system to the merged /usr directories scheme
+v4l-utils-dbgsym                             debug symbols for v4l-utils
+viewnior                                     simple, fast and elegant image viewer
+vim                                          Vi IMproved - enhanced vi editor
+vlan                                         ifupdown integration for vlan configuration
+whiptail                                     Displays user-friendly dialog boxes from shell scripts
+wireless-regdb                               wireless regulatory database for Linux
+wireless-tools                               Tools for manipulating Linux Wireless Extensions
+wiringpi                                     The wiringPi libraries for the OrangePi, headers and gpio command
+wpasupplicant                                client support for WPA and WPA2 (IEEE 802.11i)
+x11-apps                                     X applications
+xbacklight                                   simple utility to set the backlight level
+xcursor-themes                               Base X cursor themes
+xdg-user-dirs-gtk                            tool to manage well known user directories (Gtk extension)
+xfce-superkey-mx                             allows super key to be used with keyboard combos
+xfce4                                        Meta-package for the Xfce Lightweight Desktop Environment
+xfce4-battery-plugin                         battery monitor plugin for the Xfce4 panel
+xfce4-clipman                                clipboard history utility
+xfce4-cpufreq-plugin                         cpufreq information plugin for the Xfce4 panel
+xfce4-cpugraph-plugin                        CPU load graph plugin for the Xfce4 panel
+xfce4-datetime-plugin                        date and time plugin for the Xfce4 panel
+xfce4-diskperf-plugin                        disk performance display plugin for the Xfce4 panel
+xfce4-docklike-plugin                        modern, docklike, minimalist taskbar for Xfce
+xfce4-fsguard-plugin                         filesystem monitor plugin for the Xfce4 panel
+xfce4-genmon-plugin                          Generic Monitor for the Xfce4 panel
+xfce4-mount-plugin                           mount plugin for the Xfce4 panel
+xfce4-netload-plugin                         network load monitor plugin for the Xfce4 panel
+xfce4-notifyd                                simple, visually-appealing notification daemon for Xfce
+xfce4-places-plugin                          quick access to folders, documents and removable media
+xfce4-power-manager-plugins                  power manager plugins for Xfce panel
+xfce4-screenshooter                          screenshots utility for Xfce
+xfce4-sensors-plugin                         hardware sensors plugin for the Xfce4 panel
+xfce4-smartbookmark-plugin                   search the web via the Xfce4 panel
+xfce4-systemload-plugin                      system load monitor plugin for the Xfce4 panel
+xfce4-taskmanager                            process manager for the Xfce4 Desktop Environment
+xfce4-terminal                               Xfce terminal emulator
+xfce4-timer-plugin                           timer plugin for Xfce panel
+xfce4-verve-plugin                           Verve (command line) plugin for Xfce panel
+xfce4-wavelan-plugin                         wavelan status plugin for the Xfce4 panel
+xfce4-weather-plugin                         weather information plugin for the Xfce4 panel
+xfce4-whiskermenu-plugin                     Alternate menu plugin for the Xfce desktop environment
+xfce4-xkb-plugin                             xkb layout switch plugin for the Xfce4 panel
+xfonts-100dpi                                100 dpi fonts for X
+xfonts-75dpi                                 75 dpi fonts for X
+xfonts-base                                  standard fonts for X
+xfonts-scalable                              scalable fonts for X
+xinit                                        X server initialisation tool
+xorg-docs-core                               Core documentation for the X.org X Window System
+xscreensaver                                 Screensaver daemon and frontend for X11
+xserver-xephyr                               nested X server
+xserver-xorg                                 X.Org X server
+xserver-xorg-core-dbgsym                     debug symbols for xserver-xorg-core
+xserver-xorg-dev                             Xorg X server - development files
+xserver-xorg-legacy-dbgsym                   debug symbols for xserver-xorg-legacy
+xserver-xorg-video-fbdev                     X.Org X server -- fbdev display driver
+xterm                                        X terminal emulator
+xtermcontrol                                 dynamic configuration of xterm properties
+xtermset                                     change the characteristics of an xterm
+xwallpaper                                   utility for setting image files as X wallpaper
+zenity                                       Display graphical dialog boxes from shell scripts
+zip                                          Archiver for .zip files
