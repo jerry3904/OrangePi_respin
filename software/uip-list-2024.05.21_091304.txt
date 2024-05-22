@@ -11,7 +11,6 @@ apt-notifier                                 tray applet to notify of system and
 apt-utils                                    package management related utility programs
 arc-theme                                    Flat theme with transparent elements
 at-spi2-core                                 Assistive Technology Service Provider Interface (D-Bus core)
-audacious                                    small and fast audio player which supports lots of formats
 automake                                     Tool for generating GNU Standards-compliant Makefiles
 avahi-autoipd                                Avahi IPv4LL network address configuration daemon
 base-passwd                                  Debian base system master password and group files
