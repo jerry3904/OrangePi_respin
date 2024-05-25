@@ -1,2 +1,4 @@
 # OrangePi_respin
-MX respin for the Orange Pi 5
+MX-23 (Debian Bookworm) respin for the Orange Pi 5
+
+![Screenshot of MX-23 on Orange Pi 5](/pics/FullScreen.png)
