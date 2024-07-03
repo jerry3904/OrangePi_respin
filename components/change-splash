@@ -1,0 +1,8 @@
+#! /bin/bash
+
+#change the splash to any theme in /usr/share/plymouth/themes
+#the theme listed below restores the default MXOP splash
+
+sudo plymouth-set-default-theme oranepi-mxlinux    
+
+sudo update-initramfs -u -k all
