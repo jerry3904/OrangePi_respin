@@ -18,7 +18,7 @@ else
 		FILE=$FILE2
 	else
 	#display english version if no file found
-    	FILE=$FILE".pdf"
+    	FILE=$FILE"_en.pdf"
     fi
 fi
 
